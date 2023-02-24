@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2184191590
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: load.loading
+      Dependencies: {}
+    Info_1:
+      Name: trial.menu
+      Dependencies: {}
+    Info_2:
+      Name: level_02
+      Dependencies: {}
+    Info_3:
+      Name: level_01
+      Dependencies: {}
+    Info_4:
+      Name: level_00
+      Dependencies: {}
